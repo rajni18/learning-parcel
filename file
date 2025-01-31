@@ -1,0 +1,12 @@
+// What is Parcel?
+// Parcel is a bundler that takes multiple JavaScript files and combines them into a single file, which can improve performance by reducing the number of requests made to the server.
+// install parcel : npm install --save-dev parcel (it will install parcel in devDependencies not in dependencies)
+
+// How to use parcel?
+// parcel only needs an entry point, which is the main file of your application.
+// example : your main file is index,js
+// how can run parcel : npx parcel index.html
+
+// why the need of installing npm install @parcel/source-map?
+// npm install @parcel/source-map
+// bcz it is used to generate source maps, which are files that show the original source code of a file that has been transformed by Parcel.
