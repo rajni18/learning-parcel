@@ -10,3 +10,6 @@
 // why the need of installing npm install @parcel/source-map?
 // npm install @parcel/source-map
 // bcz it is used to generate source maps, which are files that show the original source code of a file that has been transformed by Parcel.
+
+
+// We use Vite as parcel installation not properly occur 
